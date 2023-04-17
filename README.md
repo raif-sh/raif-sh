@@ -4,7 +4,7 @@
 -- ~~Udemy SQL (2022-Q4)~~
 -- CS50 
 -- Design systems
-- 🪛 Building <a href="https://memo-mind.vercel.app">MemoMind</a>
+- 🪛 Building <a href="https://memo-mind.vercel.app">MemoMind</a> (buildspace n&w s3 project)
 - 💞️ I’m open to chat about any collaborations yet. 
 - 📫 HMU on twitter @RaifShareef_
 
