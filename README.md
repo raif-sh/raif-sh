@@ -2,9 +2,10 @@
 - 👀 I’m interested in developing web applications using VueJs, Nuxt and Tailwind
 - 🌱 I’m learning 
 -- ~~Udemy SQL (2022-Q4)~~
--- CS50 
--- Design systems
-- 🪛 Building <a href="https://memo-mind.vercel.app">MemoMind</a> (buildspace n&w s3 project)
+-- ~~CS50~~
+-- ~~Design systems~~
+-- web development on TOP
+- ~~🪛 Building <a href="https://memo-mind.vercel.app">MemoMind</a> (buildspace n&w s3 project)~~
 - 💞️ I’m open to chat about any collaborations yet. 
 - 📫 HMU on twitter @RaifShareef_
 
