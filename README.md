@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raif-sh
-- 👀 I’m interested in developing web applications using VueJs, Nuxt and Tailwind
+- 👀 I develop web applications using Flask, VueJs, Nuxt and for marketing websites AstroJs
 - 🌱 I’m learning 
 -- ~~Udemy SQL (2022-Q4)~~
 -- ~~CS50~~
