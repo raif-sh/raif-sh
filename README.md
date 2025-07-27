@@ -13,8 +13,8 @@ I'm a curious builder with a passion for design, development, and developer expe
 - Contributing to open source via docs, guides, and tutorials
 
 ## 🚀 Recent Projects
-- 🧠 [MemoMind](https://memo-mind.vercel.app) – a Buildspace project for mood tracking with a simple UI and journaling flow  
-- 🌤️ Productivity Tracker with weather & mood context ([GitHub](https://github.com/raif-sh/productivity-tracker))
+- 🧠 [MemoMind](https://memo-mind.vercel.app) – a Buildspace project for mood tracking with a simple UI and journaling flow (Database not live anymore) 
+- 🌤️ Productivity Tracker with weather & mood context ([Buffalogs - GitHub](https://github.com/raif-sh/buffalogs))
 
 ## 💬 Let’s Connect
 I'm open to collaborations, freelance projects, or just geeking out about frontend, DX, or writing great docs.
