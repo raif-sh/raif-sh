@@ -1,25 +1,15 @@
-# Hey, I'm Raif 👋
+# Hey, I’m Raif 👋
 
-I'm a curious builder with a passion for design, development, and developer experience. I work on clean UIs, technical documentation, and web apps that are easy to use and easy to scale.
+Product-oriented technologist with a background in **marketing, growth, and product development**.
 
-## 🛠 What I Do
-- I develop web applications using **Flask**, **Vue.js**, **Nuxt**, and **Astro** for fast, marketing-friendly sites.
-- I’m exploring the intersection of **design systems**, **frontend engineering**, and **developer documentation**.
-- Currently diving deep into **JavaScript**, **React**, and **Tailwind CSS** through [The Odin Project](https://www.theodinproject.com/).
+I’ve worked close to the problem space — translating user needs, business goals, and constraints into clear product direction, scalable interfaces, and thoughtful execution.
 
-## 📚 What I'm Learning
-- Advanced web development workflows (design-to-code, DX, component libraries)
-- Building UI systems with **Storybook**, **shadcn/ui**, and **Radix UI**
-- Contributing to open source via docs, guides, and tutorials
+## What I bring
+- Product thinking, discovery, and roadmap clarity
+- UX, design systems, and frontend execution
+- Strong written communication (docs, specs, narratives)
 
-## 🚀 Recent Projects
-- 🧠 [MemoMind](https://memo-mind.vercel.app) – a Buildspace project for mood tracking with a simple UI and journaling flow (Database not live anymore) 
-- 🌤️ Productivity Tracker with weather & mood context ([Buffalogs - GitHub](https://github.com/raif-sh/buffalogs))
-
-## 💬 Let’s Connect
-I'm open to collaborations, freelance projects, or just geeking out about frontend, DX, or writing great docs.
-
-📫 Reach me on [Twitter](https://twitter.com/RaifShareef_) or here on GitHub!
+📫 [Twitter](https://twitter.com/RaifShareef_) 
 
 ---
 
